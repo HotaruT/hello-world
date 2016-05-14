@@ -23,8 +23,17 @@ MathJax.Hub.Config({
 <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 \\[ \\sum_{k=1}^{n}k = \\frac{n+1}{2} \\]
 
+## GitHub Pages
+[GitHub Pages](https://pages.github.com/)のやり方をみながらページを公開してみる。
+（もともとは[Githubを使って3分でHPを公開する。](http://qiita.com/budougumi0617/items/221bb946d1c90d6769e9)を参照して
+公式ページに辿り着いた。）
+
+### 作ったページ
++ [最初のページ](http://hotarut.github.io/hello-world/)
++ [オイラーフォントのおためし](http://hotarut.github.io/hello-world/eulerfont.html)
+
 ## 参考文献
 + [GitHub Guides のチュートリアル (Hello World)](https://guides.github.com/activities/hello-world/)
 + [Markdown記法 チートシート](http://qiita.com/Qiita/items/c686397e4a0f4f11683d)
-
++ [Githubを使って3分でHPを公開する。](http://qiita.com/budougumi0617/items/221bb946d1c90d6769e9)
 
